@@ -1,8 +1,7 @@
 <h1 align="center">
   <br>
-  <a></a>
+  <a><a><img src="data/timer.png" alt="logo"width="150"></a></a>
   <br>
-    <a><img src="data/timer.png" alt="logo"width="150"></a>
 </p>
   <strong style="font-weight: bold; font-size: 40px;">独立动画 《计时器》配套小程序</strong>
 </p>
