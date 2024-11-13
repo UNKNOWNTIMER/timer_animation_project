@@ -19,8 +19,8 @@
 </h1
 
     你要是没啥事可以下载下来玩玩
-    该程序是下一部独立动画《TIMER》里面所有场景中出现文字的对应自动生成器
-    用于辅助我的动画制作
+    该程序是为下一部独立动画《TIMER》所有其世界中使用的文字的对应自动生成器
+    用于辅助动画制作
     2021年9月在火药方糖和摔跤社时找大家设计的，对应名字保留在了注释里（白嫖数字签名）
     This program is an automatic generator for the corresponding text that appears in all scenes of the upcoming independent animation*TIMER* . It is designed to assist in the production of the animation.
 
@@ -40,6 +40,8 @@ Early Animation Concept (Abandoned) and Storyboard
     <a><img src="data/Snipaste_2024-11-13_15-12-30.jpg" alt="P" width="1200"></a>
     <a><img src="data/TIMER_P.png" alt="P" width="1200"></a>
   <br>
+  
+</h1
 
 * 功能更新
   - [X] 将原本编写的程序C++程序转换成python,完成图形交互提供了windows自动化的bat安装包
