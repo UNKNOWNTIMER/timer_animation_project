@@ -18,7 +18,7 @@
     你要是没啥事可以下载下来玩玩
     该程序是为下一部独立动画《TIMER》所有其世界中使用的文字的对应自动生成器
     用于辅助动画制作
-    2021年9月在火药方糖和摔跤社时找大家设计的，对应名字保留在了注释里（白嫖数字签名）
+    2021年8月在火药方糖和摔跤社时找大家设计的，对应名字永远保留在代码注释里以表感谢
     This program is an automatic generator for the corresponding text that appears in all scenes of the upcoming independent animation*TIMER* . It is designed to assist in the production of the animation.
 
 <h1 align="center">
